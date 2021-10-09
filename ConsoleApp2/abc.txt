@@ -1,0 +1,3 @@
+what i have done: Git commit ,add console app and completed cloud introduction(SAas,iaas,paas).
+what i will do next: see azure video.
+Any issue: no
